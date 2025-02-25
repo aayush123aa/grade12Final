@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+
+}
+.me{
+    border-radius: 50%;
+    width: 199px;
+    height: 199px;
+}
